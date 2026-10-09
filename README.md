@@ -1,15 +1,9 @@
-# WorkBuddy Skills
-
-My personal collection of [WorkBuddy AI](https://www.workbuddy.cn) skills.
-
 ## Install a skill
 
 Copy the skill folder into your user-level skills directory:
 
 - macOS / Linux: `~/.workbuddy-ai/skills/<skill-name>/`
 - Windows: `%USERPROFILE%\.workbuddy-ai\skills\<skill-name>\`
-
-WorkBuddy AI picks up skills from that directory automatically — no restart needed.
 
 ## Skills
 
