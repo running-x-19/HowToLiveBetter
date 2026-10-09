@@ -11,16 +11,6 @@ Copy the skill folder into your user-level skills directory:
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [`high-value-life-guide`](skills/high-value-life-guide/) | High-Value Life Guide (高性价比人生指南). Delivers a curated "宝藏好物" resource collection via a Quark netdisk share link. |
 
-## Adding a new skill
-
-```
-skills/
-└── <skill-name>/
-    └── SKILL.md      # YAML frontmatter (name, description) + instructions
-```
-
-The `name` field must match the folder name. The `description` field is what the  
-agent matches against — put the trigger phrases there.
 
 我用夸克网盘给你分享了「宝藏好物 右下角保存 防止和谐」，点击链接或复制整段内容，打开「夸克APP」即可获取。
 /~f1d53bLOAz~:/
